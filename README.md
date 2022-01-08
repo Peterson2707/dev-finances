@@ -1,7 +1,8 @@
 # dev-finanças
 
-![imagem projeto](https://gyazo.com/e4e23c5c4f0d00d2a5682304ce493b2a)
-alterar imagem
+![01](https://user-images.githubusercontent.com/85916079/148660463-8455a178-bd04-4d69-b33c-e84be6db11f2.png)
+
+![02](https://user-images.githubusercontent.com/85916079/148660473-5aa899c8-4a74-4f9c-a63e-aa0031c1057c.png)
 
 ## Sobre o projeto
 Criei essa aplicação com a finalidade de aprender como salvar estados usando Local Storage.
@@ -13,4 +14,4 @@ Criei essa aplicação com a finalidade de aprender como salvar estados usando L
 
 Veja meu projeto aqui:
 
-https://gyazo.com/cb0e8fc5e60eac2c60dc6cc854f05bb2
+dev-finances-01.netlify.app
